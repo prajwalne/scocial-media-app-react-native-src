@@ -1,2 +1,2 @@
-# scocial-media-app-react-native-src
+# social-media-app-react-native-src
 instagram clone
